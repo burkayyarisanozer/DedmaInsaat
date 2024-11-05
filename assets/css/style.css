@@ -4692,9 +4692,6 @@ span.fill {
     transition: .9s;
 }
 
-.pricing-area .single-pricing-box.style_two{
-
-}
 
 .pricing-area .single-pricing-box.style_two::before{
     background: #101010;
