@@ -30,7 +30,7 @@
 .about_button a {
   display: inline-block;
   font-size: 16px;
-  background: #C79E70;
+  background: #e37525;
   padding: 11px 29px;
   color: #fff;
   text-transform: uppercase;
@@ -121,7 +121,7 @@
 }
 
 .contact_area_three .quote_button button {
-  background: #D9AB7A;
+  background: #e37525;
   text-align: center;
   display: inline-block;
   color: #fff;
@@ -248,7 +248,7 @@
 .contact-area-inner .quote_button {
   text-align: center;
   margin-top: 10px;
-  background: #D7AB79;
+  background: #e37525;
   position: relative;
   z-index: 1;
   transition: .5s;
@@ -295,4 +295,119 @@
   color: #101010;
   font-weight: 600;
   margin: 15px 0 20px;
+}
+
+.logo_img img {
+  width: 180px;
+  object-fit: contain;
+}
+.main_sticky img{
+  width: 170px;
+}
+.hendre_nav_manu{
+  padding: 10px 0px 10px 50px;
+}
+.elaction-logo{
+  margin-top: -50px;
+  margin-bottom: -20px;
+}
+.elaction-logo img{
+  width: 250px;
+}
+
+.footer-section .company-info-desc p{
+  margin: 0px;
+}
+
+.slider-area.one .slider-title h1 span{
+  color: #e37525;
+}
+.sub-title h2 span{
+  color: #e37525;
+}
+
+.footer-section.upper button.btns{
+  background: #e37525;
+  border: #e37525;
+}
+.section-title.upper .sub-title h2{
+  color: #192f5c;
+}
+.section_title_five .sub_title h4{
+  color: #192f5c !important;
+}
+.section_title_five .main_title h1{
+  color: #192f5c !important;
+}
+.contact_area_three .quote_button button::before{
+  background: #192f5c !important;
+}
+.footer-section.upper button.btns::before{
+  background-color: #192f5c !important;
+}
+.footer-section.upper .footer-icon-list ul li a{
+  color: #192f5c;
+}
+.footer-section.upper .footer-icon-list ul li a:hover{
+  background: #e37525;
+}
+.bi-telephone::before{
+  color: #e37525;
+}
+.bi-envelope-open::before{
+  color: #e37525;
+}
+.main_title span{
+  color: #e37525;
+}
+.main_title h1 {
+  color: #192f5c !important;
+}
+.section_title .sub_title h4{
+  color: #e37525;
+}
+.prgoress_indicator::after{
+  color: #e37525;
+}
+.prgoress_indicator::before{
+  color: #e37525;
+}
+.prgoress_indicator svg.progress-circle path{
+  stroke: #e37525 !important;
+}
+.about-area.one .about-thumb::before{
+  background-color: #e37525 !important;
+}
+.curser{
+  border: 2px solid #e37525;
+}
+.curser2{
+  background: #e37525;
+}
+.feature-area.one .feature-content h4{
+  color: #e37525;
+}
+.about_icon_list i{
+  color: #e37525;
+}
+.about-area.one .about-button a{
+  background: #192f5c;
+}
+.about-area.one .about-button::before{
+  border: 1px solid #e37525;
+}
+.about-area.one .about-thumb::before {
+  background: #e37525;
+}
+.about-area.one .about-button a::before{
+  background: #e37525;
+}
+.about-area.one .about-button a::after{
+  background: #e37525;
+}
+.project-area.one .project-thumb::before{
+  background: #e37525;
+}
+.blog-area.one .blog-thumb::before{
+  background: #e37525;
 }
