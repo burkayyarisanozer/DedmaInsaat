@@ -555,3 +555,57 @@
 .slider-area.one .slider-button:hover::before{
   border: 1px solid #e37525;
 }
+.blog-area.one.upper .single-blog-box:hover .blog-button::before{
+  border: 1px solid #e37525;
+}
+.blog-area.one.upper .single-blog-box:hover .blog-button a::after{
+  background: #e37525;
+}
+.blog-area.one.upper .single-blog-box:hover .blog-button a::before{
+  background: #e37525;
+}
+.slider-area.one .slider-button a:hover::after{
+  background:#e37525;
+}
+.sub-title h2::before{
+  background: #e37525;
+}
+
+.sub-title h2::after{
+  background-color: #192f5c;
+}
+.feature-title h2{
+  color: #192f5c;
+  font-size: 40px;
+  margin-bottom: 50px;
+}
+.feature-sub-title h4{
+  color: #e37525;
+}
+.feature-title h2 span{
+  color: #e37525;
+}
+.feature-box-container{
+  margin-top: 100px;
+}
+.text-item h6{
+  color: #192f5c;
+  margin-bottom: 10px;
+}
+.text-item p{
+  color: #999999;
+  font-size: 14px;
+  line-height: 20px;
+  max-height: 160px;
+  font-weight: 400;
+  overflow: scroll;
+}
+.one-feature-box{
+padding: 10px;
+background: #f9f8f8;
+margin-bottom: 30px;
+height: 200px;
+}
+.text-item{
+  padding: 10px;
+}
