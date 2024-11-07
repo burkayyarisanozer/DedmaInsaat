@@ -153,7 +153,7 @@
 
 .contact_area_three .contact_from_box {
   position: relative;
-  left: -60px;
+  left: 0px;
 }
 
 
@@ -595,10 +595,9 @@
 .text-item p{
   color: #999999;
   font-size: 14px;
-  line-height: 20px;
+  line-height: 25px;
   max-height: 160px;
   font-weight: 400;
-  overflow: scroll;
 }
 .one-feature-box{
 padding: 10px;
@@ -608,4 +607,26 @@ height: 200px;
 }
 .text-item{
   padding: 10px;
+}
+.close-side-widget i{
+  color: #e37525;
+}
+ul.social-box li a:hover{
+  background: #e37525;
+}
+.nav-logo img{
+  width: 160px;
+}
+.xs-sidebar-group.isActive .xs-sidebar-widget{
+  background: #4c5761;
+}
+.loader::before{
+  border: 3px solid #e37525;
+}
+.loader::after{
+  border: 3px solid #e37525;
+}
+
+.loader{
+  border-top-color: #e37525;
 }
